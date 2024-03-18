@@ -1,7 +1,3 @@
-Certainly! Below is a README template for your user management system project. You can adjust the content as needed to better fit your project's specifics.
-
----
-
 # User Management System API
 
 ## Overview
